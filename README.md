@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marius</h1>
-<h3 align="center">A starter programmer that learns his way to code</h3>
+<h3 align="center">Just a passionate programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariuszmr&label=Profile%20views&color=0e75b6&style=flat" alt="mariuszmr" /> </p>
 
