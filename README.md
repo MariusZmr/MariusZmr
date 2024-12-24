@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/MariusZmr/MariusZmr/blob/main/cover-marius.png" height="200"/>
 </p>
 
 <h3> Hey there👋! I'm Marius Zemer.</h2>
