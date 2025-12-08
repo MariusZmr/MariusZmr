@@ -2,18 +2,17 @@
   <img src="https://github.com/MariusZmr/MariusZmr/blob/main/cover-marius.png" height="200"/>
 </p>
 
-<h3> Hey there👋! I'm Marius Zemer.</h2>
-<h2> Currently working as a Cyber Security Engineer </h2>
+<h3> Hey there👋! I'm Marius Albulet.</h2>
+<h2> Currently studying CyberSecurity @ Constanta Maritime University </h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Cyber Security at Constanta Maritime University.
 - 💼 &nbsp; Learning about Rust Language.
 
 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajadhav1243@gmail.com)](mailto:nucl3umt2@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajadhav1243@gmail.com)](mailto:marius.albulet0729@gmail.com)
 
 
 ## 🛠 &nbsp;Tech Stack
