@@ -38,9 +38,3 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 <br/>
-
-## 📈 Stats
-
-![Marius's github stats](https://github-readme-stats.vercel.app/api?username=MariusZmr&hide=["issues"]&show_icons=true&line_height=30)
-
-![Marius's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusZmr&theme=buefy&layout=compact&langs_count=10)
