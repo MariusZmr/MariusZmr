@@ -2,8 +2,8 @@
   <img src="https://github.com/MariusZmr/MariusZmr/blob/main/cover-marius.png" height="200"/>
 </p>
 
-<h3> Hey there👋! I'm Marius Albulet.</h2>
-<h2> Currently studying CyberSecurity @ Constanta Maritime University </h2>
+<h3> Hey there👋! I'm Marius.</h2>
+<h2> Currently vibe coding </h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
